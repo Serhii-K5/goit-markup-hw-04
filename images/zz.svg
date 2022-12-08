@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Звезда.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.5852904"
+     inkscape:cx="396.38442"
+     inkscape:cy="288.74555"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Шар 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;stroke-width:0.264583"
+       id="path111"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="18.082191"
+       sodipodi:cy="18.534246"
+       sodipodi:r1="13.925929"
+       sodipodi:r2="6.9629645"
+       sodipodi:arg1="0.94677327"
+       sodipodi:arg2="1.5750918"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 26.219178,29.835616 18.052282,25.497147 9.8484172,29.765295 11.450837,20.657456 4.8564529,14.174047 14.013698,12.883562 18.14201,4.6084458 22.199079,12.918722 31.3449,14.287828 24.695061,20.714346 Z"
+       inkscape:transform-center-x="-0.018484654"
+       inkscape:transform-center-y="-1.3122157"
+       transform="translate(-4.5205479,-4.5205479)" />
+  </g>
+</svg>
